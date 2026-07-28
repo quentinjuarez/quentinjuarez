@@ -22,6 +22,21 @@ Portfolio: **[www.quentinjuarez.dev](https://www.quentinjuarez.dev/)**
   from two pins on a world map, where they were born and where they died. Nuxt,
   D3.js.
 
+## Packages
+
+- **[vue3-router-middlewares](https://www.npmjs.com/package/vue3-router-middlewares)**:
+  attach middleware functions to Vue Router navigation through route meta
+  fields, inherited from parent routes. Vue 3, Vue Router 4 and 5, TypeScript.
+  `yarn add vue3-router-middlewares`
+- **[tailwindcss-custom-colors](https://www.npmjs.com/package/tailwindcss-custom-colors)**:
+  one hex color in, a full Tailwind shade scale from 50 to 950 out, plus the CSS
+  variables and an automatic readable contrast color. TypeScript.
+  `yarn add tailwindcss-custom-colors`
+- **[vite-plugin-global-types](https://www.npmjs.com/package/vite-plugin-global-types)**:
+  collects your exported types into a generated `global.d.ts`, so you can use
+  them without importing them. Vite 5 to 8, TypeScript.
+  `yarn add -D vite-plugin-global-types`
+
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/quentin-juarez)
