@@ -36,6 +36,10 @@ Portfolio: **[www.quentinjuarez.dev](https://www.quentinjuarez.dev/)**
   collects your exported types into a generated `global.d.ts`, so you can use
   them without importing them. Vite 5 to 8, TypeScript.
   `yarn add -D vite-plugin-global-types`
+- **[oxlint-tailwindcss-vue](https://www.npmjs.com/package/oxlint-tailwindcss-vue)**:
+  run your oxlint-tailwindcss rules on the Tailwind CSS classes in Vue
+  templates, without ESLint. Oxlint, Vue 3, TypeScript.
+  `yarn add -D oxlint-tailwindcss-vue`
 
 ## Elsewhere
 
